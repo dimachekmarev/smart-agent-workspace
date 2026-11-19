@@ -1,0 +1,189 @@
+[
+  {
+    "code": "AE01",
+    "name": "Голосовой блокнот",
+    "price_rub": 0,
+    "price_moscow_rub": 0,
+    "description": "Задачи и заметки после звонка",
+    "time": "5 минут",
+    "result": "Сохранить поручение, закрыть задачу и выгрузить список.",
+    "url": "https://adam-eva-products.dimachek777.chatgpt.site/voice/",
+    "cover": "https://adam-eva-products.dimachek777.chatgpt.site/covers/AE01.jpg"
+  },
+  {
+    "code": "AE02",
+    "name": "Протокол встречи",
+    "price_rub": 1490,
+    "price_moscow_rub": 1490,
+    "description": "Решения, ответственные и сроки в одном документе",
+    "time": "10 минут",
+    "result": "Заполнить встречу и сохранить протокол через печать в PDF.",
+    "url": "https://adam-eva-products.dimachek777.chatgpt.site/minutes/",
+    "cover": "https://adam-eva-products.dimachek777.chatgpt.site/covers/AE02.jpg"
+  },
+  {
+    "code": "AE03",
+    "name": "Конструктор КП",
+    "price_rub": 2490,
+    "price_moscow_rub": 2490,
+    "description": "Смета, итоговая цена и предложение в PDF",
+    "time": "10 минут",
+    "result": "Изменить количество в смете и получить новый итог.",
+    "url": "https://adam-eva-products.dimachek777.chatgpt.site/proposal/",
+    "cover": "https://adam-eva-products.dimachek777.chatgpt.site/covers/AE03.jpg"
+  },
+  {
+    "code": "AE04",
+    "name": "Мини-CRM",
+    "price_rub": 2990,
+    "price_moscow_rub": 2990,
+    "description": "Личный список заявок, этапы и даты контакта",
+    "time": "15 минут",
+    "result": "Добавить заявку, изменить этап и выгрузить CSV.",
+    "url": "https://adam-eva-products.dimachek777.chatgpt.site/crm/",
+    "cover": "https://adam-eva-products.dimachek777.chatgpt.site/covers/AE04.jpg"
+  },
+  {
+    "code": "AE05",
+    "name": "Офисный набор",
+    "price_rub": 4990,
+    "price_moscow_rub": 4990,
+    "description": "Четыре офисных инструмента с упражнениями",
+    "time": "30–45 минут",
+    "result": "Пройти путь от заметки до предложения и сохранённой заявки.",
+    "url": "https://adam-eva-products.dimachek777.chatgpt.site/office/",
+    "cover": "https://adam-eva-products.dimachek777.chatgpt.site/covers/AE05.jpg"
+  },
+  {
+    "code": "AE06",
+    "name": "Экспресс-расчёт автоматизации",
+    "price_rub": 490,
+    "price_moscow_rub": 490,
+    "description": "Калькулятор эффекта, срок окупаемости и план первого замера",
+    "time": "10–15 минут",
+    "result": "Посчитать, сколько времени высвобождает один процесс, и проверить сценарии 50%, 75% и 100%.",
+    "url": "https://adam-eva-products.dimachek777.chatgpt.site/audit/",
+    "cover": "https://adam-eva-products.dimachek777.chatgpt.site/covers/AE06.jpg"
+  },
+  {
+    "code": "AE07",
+    "name": "Конструктор ответов на заявки",
+    "price_rub": 4900,
+    "price_moscow_rub": 4900,
+    "description": "Шесть шаблонов переписки и трекер входящих обращений",
+    "time": "25–40 минут",
+    "result": "Настроить ответы под свою услугу, отработать возражения и выгрузить черновики.",
+    "url": "https://adam-eva-products.dimachek777.chatgpt.site/sales/",
+    "cover": "https://adam-eva-products.dimachek777.chatgpt.site/covers/AE07.jpg"
+  },
+  {
+    "code": "AE08",
+    "name": "Контент на 14 дней",
+    "price_rub": 5900,
+    "price_moscow_rub": 5900,
+    "description": "Редакционный календарь, темы, форматы и задания для выпуска",
+    "time": "35–60 минут",
+    "result": "Собрать календарь под свой продукт, отредактировать и скачать CSV.",
+    "url": "https://adam-eva-products.dimachek777.chatgpt.site/content/",
+    "cover": "https://adam-eva-products.dimachek777.chatgpt.site/covers/AE08.jpg"
+  },
+  {
+    "code": "AE09",
+    "name": "Практикум n8n на трёх сценариях",
+    "price_rub": 8900,
+    "price_moscow_rub": 8900,
+    "description": "Три учебных JSON, браузерный тренажёр и инструкции",
+    "time": "60–90 минут",
+    "result": "Нормализовать заявку, найти дубли и собрать сводку на учебных данных.",
+    "url": "https://adam-eva-products.dimachek777.chatgpt.site/n8n/",
+    "cover": "https://adam-eva-products.dimachek777.chatgpt.site/covers/AE09.jpg"
+  },
+  {
+    "code": "AE10",
+    "name": "Набор «Первые заявки»",
+    "price_rub": 12900,
+    "price_moscow_rub": 12900,
+    "description": "Переписка, контент и практикум n8n с упражнениями",
+    "time": "2–3 часа",
+    "result": "Подготовить ответы, календарь и три учебных сценария.",
+    "url": "https://adam-eva-products.dimachek777.chatgpt.site/growth/",
+    "cover": "https://adam-eva-products.dimachek777.chatgpt.site/covers/AE10.jpg"
+  },
+  {
+    "code": "S01",
+    "name": "Разбор процесса и план внедрения",
+    "price_rub": 12900,
+    "price_moscow_rub": 15900,
+    "description": "Созвон, карта процесса и перечень работ",
+    "time": "1–2 рабочих дня",
+    "result": "Согласовать один процесс, определить входы, выходы и критерии приёмки.",
+    "url": "https://adam-eva-products.dimachek777.chatgpt.site/review/",
+    "cover": "https://adam-eva-products.dimachek777.chatgpt.site/covers/S01.jpg"
+  },
+  {
+    "code": "S02",
+    "name": "Внедрение одного сценария n8n",
+    "price_rub": 29900,
+    "price_moscow_rub": 34900,
+    "description": "Один сценарий, до двух готовых интеграций, приёмка и обучение",
+    "time": "2–4 рабочих дня",
+    "result": "Запустить один согласованный процесс на стороне клиента и проверить результат.",
+    "url": "https://adam-eva-products.dimachek777.chatgpt.site/setup/",
+    "cover": "https://adam-eva-products.dimachek777.chatgpt.site/covers/S02.jpg"
+  },
+  {
+    "code": "S03",
+    "name": "Два рабочих сценария с сопровождением запуска",
+    "price_rub": 59900,
+    "price_moscow_rub": 74900,
+    "description": "Два согласованных процесса, журнал ошибок и обучение",
+    "time": "5–8 рабочих дней",
+    "result": "Принять два сценария на контрольных примерах и передать инструкции.",
+    "url": "https://adam-eva-products.dimachek777.chatgpt.site/system/",
+    "cover": "https://adam-eva-products.dimachek777.chatgpt.site/covers/S03.jpg"
+  },
+  {
+    "code": "AE11",
+    "name": "18 промптов для ежедневной работы",
+    "price_rub": 790,
+    "price_moscow_rub": 790,
+    "description": "Продажи, контент, встречи и управление задачами",
+    "time": "15–25 минут",
+    "result": "Заполнить один шаблон, получить рабочий черновик и проверить результат.",
+    "url": "https://adam-eva-products.dimachek777.chatgpt.site/prompts/",
+    "cover": "https://adam-eva-products.dimachek777.chatgpt.site/covers/AE11.jpg"
+  },
+  {
+    "code": "AE12",
+    "name": "Чек-лист контент-завода",
+    "price_rub": 0,
+    "price_moscow_rub": 0,
+    "description": "Проверка процесса от идеи до публикации",
+    "time": "10–15 минут",
+    "result": "Выбрать узкое место и поставить первый недельный эксперимент.",
+    "url": "https://adam-eva-products.dimachek777.chatgpt.site/checklist/",
+    "cover": "https://adam-eva-products.dimachek777.chatgpt.site/covers/AE12.jpg"
+  },
+  {
+    "code": "AE13",
+    "name": "Контент-завод за 7 дней",
+    "price_rub": 1490,
+    "price_moscow_rub": 1490,
+    "description": "Практикум запуска с журналом согласований и шаблоном замера",
+    "time": "45–60 минут на настройку",
+    "result": "Собрать минимальный цикл от исходника до выпуска и пройти семь дней практики.",
+    "url": "https://adam-eva-products.dimachek777.chatgpt.site/factory/",
+    "cover": "https://adam-eva-products.dimachek777.chatgpt.site/covers/AE13.jpg"
+  },
+  {
+    "code": "S04",
+    "name": "Личное AI-наставничество",
+    "price_rub": 300000,
+    "price_moscow_rub": 300000,
+    "description": "Месяц работы с руководителем или сотрудником компании",
+    "time": "4 недели",
+    "result": "Выбрать рабочий процесс, собрать пилот, проверить его на своих данных и передать команде.",
+    "url": "https://adam-eva-products.dimachek777.chatgpt.site/mentorship/",
+    "cover": "https://adam-eva-products.dimachek777.chatgpt.site/covers/S04.jpg"
+  }
+]
